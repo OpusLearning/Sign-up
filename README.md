@@ -3,7 +3,7 @@
 
 This repository contains a responsive sign-up form built with HTML, CSS, and JavaScript. The form features client-side validation using HTML5 and JavaScript, along with responsive design adjustments using CSS media queries.
 
-![Sign-Up Form](../assets/signup.png)
+![Sign-Up Form](./assets/signup.png)
 
 ## Features
 
