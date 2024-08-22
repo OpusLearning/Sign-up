@@ -108,6 +108,7 @@ a:hover {
 }
 
 form label {
+    font-family: "Poppins", sans-serif;
   font-weight: bold;
   color: #333;
   margin-bottom: 8px;
@@ -133,6 +134,10 @@ form label {
         margin-left: 5%;
         margin-top: 8%;
       }
+      form label{
+        font-size: 0.7rem;
+    } 
+    
   }
   
   @media (max-width: 480px) {
@@ -160,6 +165,10 @@ form label {
         margin-left: 5%;
         margin-top: 5%;
       }
+      form label{
+        font-size: 0.7rem;
+    } 
+    
   }
 
 form {
@@ -173,6 +182,7 @@ form {
   font-weight: 200;
   font-family: "Poppins", sans-serif;
 }
+
 
 .form-row {
   width: calc(50% - 10px);
